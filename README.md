@@ -1,7 +1,7 @@
 # Microcontroller-Based RFID Access Control System
 
 <p align="center">
-  <img src="Images/final_housing.png" width="300">
+  <img src="Images/Finished_project.jpg" width="300">
 </p>
 
 ## Project Overview
