@@ -1,5 +1,9 @@
 # Microcontroller-Based RFID Access Control System
 
+<p align="center">
+  <img src="Images/final_housing.png" width="300">
+</p>
+
 ## Project Overview
 Designed and prototyped a contactless security system to address vulnerabilities in traditional cylinder locks. This project explores RFID technology to reduce reliance on physical keys, utilizing an Arduino microcontroller to grant access via key cards.
 
